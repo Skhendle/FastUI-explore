@@ -38,7 +38,7 @@ fastapi = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pydantic/FastUI"
+Homepage = "https://github.com/Skhendle/FastUI-explore"
 
 [project.scripts]
 fastui = "fastui.__main__:cli"
